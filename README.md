@@ -7,7 +7,7 @@ lakka@chapman.edu, rkearns@chapman.edu
 - **Ronan Kearns**: Created CollectionView, CartView, WatchView and AddNewWatch
 
 ### References
-ChatGPT 
-https://www.youtube.com/watch?v=a05eLxsbCCw&t=1s&ab_channel=CodeWithChris 
-https://www.youtube.com/watch?v=fwG1pDgytDc&ab_channel=DesignCode
+- ChatGPT 
+- https://www.youtube.com/watch?v=a05eLxsbCCw&t=1s&ab_channel=CodeWithChris 
+- https://www.youtube.com/watch?v=fwG1pDgytDc&ab_channel=DesignCode
 
